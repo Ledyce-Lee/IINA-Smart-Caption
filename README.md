@@ -1,6 +1,6 @@
 # Smart Caption for IINA
 
-1.8.4.0以IINA 1.5.0为适配目标，保持原有配置和功能。详见CHANGELOG-1.8.4.0.md。
+1.8.4.0以IINA 1.5.0为适配目标，保持原有配置和功能。详见[更新记录](CHANGELOG.md)。
 
 一个本地 IINA 插件：读取当前启用的文字字幕，将字幕文本发送到 OpenRouter、SiliconFlow 或 OpenAI 兼容服务，用于问答、带时间范围总结，并将回答中的字幕引文变成可点击的跳转链接。回答会流式显示并实时计时，支持 Markdown、复制、追问和编辑后重新发送。
 
